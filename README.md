@@ -6,6 +6,6 @@ The format, terms and words they use on is painful.
 
 ## What I have learnt about GitHub
 .MD files are saved in a plain text format when viewed.
-
+Repositories are where your project works are made and can be viewed easily using the dashboard.
 
 
